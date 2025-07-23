@@ -172,4 +172,15 @@ git push --tags
 ```
 
 ---
+## Before (Writing a prompt myself with no AI assistance)
+
+<img width="861" height="381" alt="Screenshot 2025-07-23 at 7 18 44 AM" src="https://github.com/user-attachments/assets/3020f0c6-6532-49f6-b6e0-139ee98624b7" />
+
+## After: (Having AI rewrite the prompt and in PDF format, and giving additional instructions for the agent)
+
+<img width="839" height="261" alt="Screenshot 2025-07-23 at 7 25 11 AM" src="https://github.com/user-attachments/assets/5657b5d3-27d7-4bec-bf5c-ca4ebba347e7" />
+
+
+<img width="549" height="525" alt="Screenshot 2025-07-23 at 7 39 48 AM" src="https://github.com/user-attachments/assets/9afcae5b-3453-4759-a606-c3bf98c6cc13" />
+
 
