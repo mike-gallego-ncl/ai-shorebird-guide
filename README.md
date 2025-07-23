@@ -12,7 +12,7 @@
 - **Shorebird CI (GitHub App)** provides **zero-config CI/CD**: PR triggers → automatic patches.
 - **Optional private patch server**: enterprise-level control, smoother rollouts, reduced latency.
 
-We demonstrated this velocity when presenting to the **creator of Flutter (NCL)** — showcasing **140k+ LOC delivered in one month** with seamless patches.
+We demonstrated this velocity when presenting to the **creator of Flutter** — showcasing **140k+ LOC delivered in one month** with seamless patches.
 
 ---
 
