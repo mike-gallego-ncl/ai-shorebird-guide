@@ -1,0 +1,1 @@
+// This is the main component for displaying a todo item in the app.
